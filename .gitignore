@@ -1,0 +1,7 @@
+__pycache__
+.DS_Store
+*.aux
+*.log
+*.out
+*.pdf
+*.toc
